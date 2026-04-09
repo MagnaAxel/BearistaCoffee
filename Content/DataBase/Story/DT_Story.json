@@ -1,0 +1,2540 @@
+[
+  {
+    "Name": "Dark thought",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "Excuse me sir, Before you go tell me...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Does it make me a bad person if i doubt my husband ?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I feel like I made a mistake by chosing him, he changed...",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Alone",
+    "Affinity": 20,
+    "Requirements": [
+      "Dark thought"
+    ],
+    "Lines": [
+      {
+        "Line": "I would need one of your drinks again, it really helped me the other day.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "From now on I think I'll only care about me and my three childrens...",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Problems",
+    "Affinity": 40,
+    "Requirements": [
+      "Alone",
+      "Mr Clean"
+    ],
+    "Lines": [
+      {
+        "Line": "I saw him here recently, I hope he's not causing you any trouble.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I no longer have powers on his choices anyway.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "All I can do is hoping he's not doing anything...",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Expectations",
+    "Affinity": 60,
+    "Requirements": [
+      "Problems"
+    ],
+    "Lines": [
+      {
+        "Line": "I feel like he's changing but it's still not enough, he lost my trust.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Now he will have to regain it by himself hmph!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Don't repeat this to him please.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Difficulties",
+    "Affinity": 80,
+    "Requirements": [
+      "Expectations"
+    ],
+    "Lines": [
+      {
+        "Line": "Aah, it kills me to ignore him, it's not in my habits.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "But on the other hand i'm so tired.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I want him to do something for me, for once.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "flowers, tears and love",
+    "Affinity": 100,
+    "Requirements": [
+      "Difficulties",
+      "New me"
+    ],
+    "Lines": [
+      {
+        "Line": "He brought me flowers...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I cried so hard and still want to right now.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Thanks to you he came back the same as he was before.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "So sincerely thank you for healing us, me and my husband.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "A wolf as a mouse",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "Hi little bear, with this little amount of clients you would need a loan right?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "With very small interests for me of course.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Mr Clean",
+    "Affinity": 20,
+    "Requirements": [
+      "A wolf as a mouse"
+    ],
+    "Lines": [
+      {
+        "Line": "how is this place still standing?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I thought I paid the health inspection group enough, grrrr.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Review bombing",
+    "Affinity": 40,
+    "Requirements": [
+      "Mr Clean"
+    ],
+    "Lines": [
+      {
+        "Line": "This place is trash and everybody will know it!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "For her",
+    "Affinity": 50,
+    "Requirements": [
+      "Review bombing"
+    ],
+    "Lines": [
+      {
+        "Line": "I saw my wife coming here...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "you know what?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Maybe the coffee isn't that bad after all.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Redemption",
+    "Affinity": 60,
+    "Requirements": [
+      "For her"
+    ],
+    "Lines": [
+      {
+        "Line": "Your coffees made my generosity come back after all this time.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Maybe the love for my wife can come back too...",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Healing",
+    "Affinity": 80,
+    "Requirements": [
+      "Redemption"
+    ],
+    "Lines": [
+      {
+        "Line": "Ahhhh i really needed this drink.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I understand now why your shop is working so well.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "It can heal people when they hit the ground, even if it's me.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "My wife still doesn't look at me, what can I do?",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "New me",
+    "Affinity": 100,
+    "Requirements": [
+      "Healing"
+    ],
+    "Lines": [
+      {
+        "Line": "I went to the flower shop near here.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "It's been so long since I offered her flowers that it's make me anxious.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I really needed one of your drinks, wish me luck!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Love is a flower",
+    "Affinity": 110,
+    "Requirements": [
+      "New me",
+      "flowers, tears and love"
+    ],
+    "Lines": [
+      {
+        "Line": "My wife was so happy when I gave her the flowers.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I feel like our love is coming back!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I will handle everything from now on.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "To our friendship",
+    "Affinity": 120,
+    "Requirements": [
+      "Love is a flower"
+    ],
+    "Lines": [
+      {
+        "Line": "It's crazy to me that I wanted to close this place.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "And now I'm telling you about my life without even realizing.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I can't thank you enough please forgive me, I hope will be friend.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Get to work",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "I finally finished my studies.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Nothing beats a muffin and a hot chocolate as a reward.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Rest easy",
+    "Affinity": 20,
+    "Requirements": [
+      "Get to work"
+    ],
+    "Lines": [
+      {
+        "Line": "I would never think that finding a job in what makes you happy would be so hard.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Thank god there's still a shop like yours around here to get loose a little bit.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "I got something",
+    "Affinity": 40,
+    "Requirements": [
+      "Rest easy"
+    ],
+    "Lines": [
+      {
+        "Line": "I found a company that looks pretty cool!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I contacted them and they said we need to do three meetings to know if I'm hired, I can do this!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Work, work, work",
+    "Affinity": 60,
+    "Requirements": [
+      "I got something"
+    ],
+    "Lines": [
+      {
+        "Line": "The first appointment is so close, I absolutely need to finish my portfolio, I have to work harder!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "First achievement",
+    "Affinity": 80,
+    "Requirements": [
+      "Work, work, work"
+    ],
+    "Lines": [
+      {
+        "Line": "The first appointment was a success, I'm so proud of myself!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I need to get ready for the next appointment.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "This time I need to be better and well prepared!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Second round",
+    "Affinity": 90,
+    "Requirements": [
+      "First achievement"
+    ],
+    "Lines": [
+      {
+        "Line": "It was soooo stressing but I succeeded, Only one appointment left!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I need to work harder, faster, better, stronger, more!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Ending on a loose",
+    "Affinity": 100,
+    "Requirements": [
+      "Second round"
+    ],
+    "Lines": [
+      {
+        "Line": "I can't believe it...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I thought I did good during the apointment...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I didn't got hired...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I worked so much, Why it didn't work...",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Burn out",
+    "Affinity": 120,
+    "Requirements": [
+      "Ending on a loose"
+    ],
+    "Lines": [
+      {
+        "Line": "I'm still looking for a job...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "What can I do...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I'm bad at everything...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I guess I'll just sit here, and try to find something else...",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Depressed",
+    "Affinity": 130,
+    "Requirements": [
+      "Burn out"
+    ],
+    "Lines": [
+      {
+        "Line": "All I need is another hot chocolate...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I dont have the strengtht today...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I can't find a good company...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I just want to give up...",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Recovery",
+    "Affinity": 140,
+    "Requirements": [
+      "Depressed",
+      "He's back"
+    ],
+    "Lines": [
+      {
+        "Line": "The founder of a new company texted me on Inkdin.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "He seems nice, I'll talk to him and see where this goes.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "New life",
+    "Affinity": 150,
+    "Requirements": [
+      "Recovery",
+      "Luck is in the air"
+    ],
+    "Lines": [
+      {
+        "Line": "I've met, the new founder!!!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "We even talked about our lives, I would really like to be his friend, he's so inspiring!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "I got a job",
+    "Affinity": 160,
+    "Requirements": [
+      "New life"
+    ],
+    "Lines": [
+      {
+        "Line": "Youhou, I'm hired, I'm one of the first employees!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I finally managed to do something of my life that's fabulous!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Startup",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "I left my previous company and I'm finally creating mine now.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "No loan, no work",
+    "Affinity": 20,
+    "Requirements": [
+      "Startup"
+    ],
+    "Lines": [
+      {
+        "Line": "No one wants to give me a loan to make my company, what can I do...",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Trust over money",
+    "Affinity": 40,
+    "Requirements": [
+      "No loan, no work"
+    ],
+    "Lines": [
+      {
+        "Line": "A banker contacted me recently but he seems...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Weird and fake.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I don't trust him, you know him perchance?",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Close call",
+    "Affinity": 50,
+    "Requirements": [
+      "Trust over money"
+    ],
+    "Lines": [
+      {
+        "Line": "The banker of the last time, I did good by being wary of him.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "You were right, He made a recent company fall because of his scams!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "But I still end up with no money..., I need to find a way.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Cross your fingers",
+    "Affinity": 60,
+    "Requirements": [
+      "Close call"
+    ],
+    "Lines": [
+      {
+        "Line": "I applied for government funding, I hope I'll receive something from them.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I also have an appointment to find a location for the company.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Aaah, I also really needed this drink.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Thanks Yumehana",
+    "Affinity": 80,
+    "Requirements": [
+      "Cross your fingers"
+    ],
+    "Lines": [
+      {
+        "Line": "The town was able to give me enough money, I can rent the place!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m going to find people willing to work on the project now!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "House move",
+    "Affinity": 100,
+    "Requirements": [
+      "Thanks Yumehana"
+    ],
+    "Lines": [
+      {
+        "Line": "I started setting up the place with some stuff.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "The government support might not be enough.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Now I need someone to make some visuals for the company.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m going to look on Inkdin.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "He's back",
+    "Affinity": 110,
+    "Requirements": [
+      "House move",
+      "Redemption"
+    ],
+    "Lines": [
+      {
+        "Line": "Okay, I looked around and added some interesting profiles.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m waiting for responses, but anyway, do you remember the banker?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "He contacted me again to apologize for his behavior.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Do you think I can trust him?",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "New try",
+    "Affinity": 120,
+    "Requirements": [
+      "He's back"
+    ],
+    "Lines": [
+      {
+        "Line": "I had a meeting with the banker today.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I feel like he has really changed since our first interaction.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m going to give him a chance, I just hope I won’t regret it.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Luck is in the air",
+    "Affinity": 140,
+    "Requirements": [
+      "New try",
+      "Recovery"
+    ],
+    "Lines": [
+      {
+        "Line": "The contract I signed seems fine!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I was able to get a loan without very high interest rates!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’ll be able to hire people, and on top of that, I got a positive response from a young woman on Inkdin.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m going to meet her!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "My employee",
+    "Affinity": 150,
+    "Requirements": [
+      "Luck is in the air"
+    ],
+    "Lines": [
+      {
+        "Line": "The meeting went really well.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "She seems motivated and more than qualified!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "You can tell she has worked hard, I want her on my team!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m going to contact her to tell her I’m hiring her!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "The best team",
+    "Affinity": 160,
+    "Requirements": [
+      "My employee"
+    ],
+    "Lines": [
+      {
+        "Line": "I managed to recruit a small team!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "We’re starting the project production right now!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I hope people will like it.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m going to get drinks and pastries for my whole team!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Rumors",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "Do you believe these rumors ?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I could never do those things, How can people believe something like this.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Rascal",
+    "Affinity": 20,
+    "Requirements": [
+      "Rumors"
+    ],
+    "Lines": [
+      {
+        "Line": "He got chose and not me, It could've never be so bad.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I'm sure he's the one spreading these rumors",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Justice for me",
+    "Affinity": 40,
+    "Requirements": [
+      "Rascal"
+    ],
+    "Lines": [
+      {
+        "Line": "I proved them the rumors were wrong, I hope justice will be done.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "To get my revenge I’m going to find another casting.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Hollywood here i am",
+    "Affinity": 50,
+    "Requirements": [
+      "Justice for me"
+    ],
+    "Lines": [
+      {
+        "Line": "I found a new casting I'm going to go to the auditions.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I hope they will like me.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Jaque Sparro",
+    "Affinity": 60,
+    "Requirements": [
+      "Hollywood here i am"
+    ],
+    "Lines": [
+      {
+        "Line": "I passed easily, I got the leading role!!!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I also wanted to thank you, your drinks and your care helped me to hold on.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "The Wolf of Wall Street",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "Thank you for this drink sir, I will be back",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Worker recognition",
+    "Affinity": 20,
+    "Requirements": [
+      "The Wolf of Wall Street"
+    ],
+    "Lines": [
+      {
+        "Line": "You're working hard...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Not like these stupid males in my company, sorry I carried myself away a little bit.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "It's all about coffee",
+    "Affinity": 40,
+    "Requirements": [
+      "Worker recognition"
+    ],
+    "Lines": [
+      {
+        "Line": "Those from my company underestimate me so bad!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "They think i'm here to serve coffee, no offense of course.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I'll show them that I can improve and manage the company better than them.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Nothing but thieves",
+    "Affinity": 60,
+    "Requirements": [
+      "It's all about coffee"
+    ],
+    "Lines": [
+      {
+        "Line": "Ugh, I can’t take these guys anymore.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "They managed to steal my work, claim it as their own, and they got promotions.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I have to prove to the boss that the work presented to him was mine.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Hah, I really needed a tea.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Stress release",
+    "Affinity": 70,
+    "Requirements": [
+      "Nothing but thieves"
+    ],
+    "Lines": [
+      {
+        "Line": "Ahh, I feel really good thanks to your drinks.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Thank you… Teddy, this really is the perfect place to relax.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Sacrifice to checkmate",
+    "Affinity": 80,
+    "Requirements": [
+      "Stress release"
+    ],
+    "Lines": [
+      {
+        "Line": "I wasn’t able to prove to my boss that my colleagues \"work\" actually belonged to me.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "But you know what?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "It’s not that serious.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "After all, it’s my work I know its flaws, and I’m going to do better than that.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Signed and sent",
+    "Affinity": 90,
+    "Requirements": [
+      "Sacrifice to checkmate"
+    ],
+    "Lines": [
+      {
+        "Line": "I did another piece of work that improves the model I made before, haha!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’ll be able to reduce my colleagues \"work\" to zero.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "This time, I made sure to sign all my documents.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "That tastes like promotion",
+    "Affinity": 110,
+    "Requirements": [
+      "Signed and sent"
+    ],
+    "Lines": [
+      {
+        "Line": "Haha, I got promoted, and all my associates were demoted.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "The boss must have realized that they hadn’t done any of their work.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Parsley girl",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "Hi, do you have any parsley drinks?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "No?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "But do you know how good parsley is for your health?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Ahh, I should bring you one of my parsley-based beauty products one day.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Free parsley",
+    "Affinity": 20,
+    "Requirements": [
+      "Parsley girl"
+    ],
+    "Lines": [
+      {
+        "Line": "Here’s the product I told you about last time, made with parsley.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "It's a thank you for your delicious drinks.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Where's my Parsley",
+    "Affinity": 40,
+    "Requirements": [
+      "Free parsley"
+    ],
+    "Lines": [
+      {
+        "Line": "Oh, I can already see on your skin that you’ve used my product, you look more radiant!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "That’s why my product works all over the country.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Now I just need a transporter to import it abroad, but the last two tricked me.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I don’t know how I’m going to find a trustworthy one.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "The transporter",
+    "Affinity": 60,
+    "Requirements": [
+      "Where's my Parsley"
+    ],
+    "Lines": [
+      {
+        "Line": "I found one!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I found a transporter.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "We talked, and he seems really nice.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "My product is finally going to be sold internationally.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "All bad things come in threes",
+    "Affinity": 80,
+    "Requirements": [
+      "The transporter"
+    ],
+    "Lines": [
+      {
+        "Line": "You know when I told you about a transporter… \nThe merchandise disappeared again… I think I’m going to give up on my project.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "It’s already incredible that my product is known in the country.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Great vibe",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "Ahh, your plants and the cherry tree at the entrance give so much style to your coffee, I love it.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’ll definitely come back, that’s for sure.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Meet a Neighbor",
+    "Affinity": 0,
+    "Requirements": [
+      "Great vibe"
+    ],
+    "Lines": [
+      {
+        "Line": "You know, I’m a shop owner too, I’m a florist.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Come see me one day, I’m not far from here.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’d love to show you some decoration ideas and maybe supply you with plants.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Small talk",
+    "Affinity": 0,
+    "Requirements": [
+      "Meet a Neighbor"
+    ],
+    "Lines": [
+      {
+        "Line": "Thank you for stopping by last time.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I hope I was a source of inspiration for your future decorations.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Help a friend",
+    "Affinity": 0,
+    "Requirements": [
+      "Small talk"
+    ],
+    "Lines": [
+      {
+        "Line": "I didn’t mention it to you last time, but I have a project and I need your help.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I want to create a garden and I need money for that.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I was wondering if you know anyone who could give me a loan.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "I know a guy",
+    "Affinity": 20,
+    "Requirements": [
+      "Help a friend"
+    ],
+    "Lines": [
+      {
+        "Line": "So you know someone then?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "That’s so cool, I hope they’ll agree to give me a loan, I'm aware of how crazy my project might be.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Approved",
+    "Affinity": 40,
+    "Requirements": [
+      "I know a guy"
+    ],
+    "Lines": [
+      {
+        "Line": "Guess what… \nmy loan got approved!!!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "It’s thanks to you, Teddy, thank you so much.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Now get ready, because we start the construction.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Good accounts make good friends",
+    "Affinity": 60,
+    "Requirements": [
+      "Approved"
+    ],
+    "Lines": [
+      {
+        "Line": "Ahh Teddy, I could never thank you enough.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "My dream came to life with your help.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "You know what, I’ll give you unlimited flowers for free, I think it’s only normal between friends, and it’s my way of thanking you.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Life is music",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "The saxophone is so amazing, I’d love to be able to make a living playing it.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "I will be a maestro",
+    "Affinity": 20,
+    "Requirements": [
+      "Life is music"
+    ],
+    "Lines": [
+      {
+        "Line": "It’s decided, I’m going to try the music conservatory.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Social networks musician",
+    "Affinity": 40,
+    "Requirements": [
+      "I will be a maestro"
+    ],
+    "Lines": [
+      {
+        "Line": "Well, conservatories are way too expensive for me, so I’m going to start a TikTok account.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Where are my followers",
+    "Affinity": 50,
+    "Requirements": [
+      "Social networks musician"
+    ],
+    "Lines": [
+      {
+        "Line": "The beginnings on TokTok are tough, but I’m not giving up I’m going to make it.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Featuring",
+    "Affinity": 70,
+    "Requirements": [
+      "Where are my followers"
+    ],
+    "Lines": [
+      {
+        "Line": "I spotted a bat who makes amazing drawings, I’m going to ask him if he can beautify my profile.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Bellissimo",
+    "Affinity": 80,
+    "Requirements": [
+      "Featuring"
+    ],
+    "Lines": [
+      {
+        "Line": "He agreed, woohoo!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "My TokTok account looks amazing now.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "The SaxGuy",
+    "Affinity": 90,
+    "Requirements": [
+      "Bellissimo"
+    ],
+    "Lines": [
+      {
+        "Line": "I never would have thought that so many people could be interested in me.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I could never thank Nox enough.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Like Louis Armstrong",
+    "Affinity": 100,
+    "Requirements": [
+      "The SaxGuy"
+    ],
+    "Lines": [
+      {
+        "Line": "A conductor wants me in his orchestra it’s the happiest day of my life!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Zzz...",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "I work as a night guard with my sister, but this job bores me.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’d really like to start my own business and share my drawings with the whole world",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Art account",
+    "Affinity": 20,
+    "Requirements": [
+      "Zzz..."
+    ],
+    "Lines": [
+      {
+        "Line": "I created an account to post my drawings.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "For now, I only have about fifty followers, but that’s pretty nice!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Hype train",
+    "Affinity": 40,
+    "Requirements": [
+      "Art account",
+      "Recognized streamer"
+    ],
+    "Lines": [
+      {
+        "Line": "Have you ever met my sister?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "She streams when she’s not working.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "She just got affiliated, so I made her some emotes!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "People on social media love this kind of art!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Family drama",
+    "Affinity": 50,
+    "Requirements": [
+      "Hype train",
+      "Collab"
+    ],
+    "Lines": [
+      {
+        "Line": "I had a fight with my sister this morning.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I don’t want to see her anytime soon, she really acts like a child.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Living with her is so unpleasant.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I had just asked her to tidy up the apartment.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Get up on the wrong side of the bad",
+    "Affinity": 60,
+    "Requirements": [
+      "Family drama"
+    ],
+    "Lines": [
+      {
+        "Line": "The night was tough, I’d like to have a little snack while I draw before going home.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Can I draw you working?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’ll tag you in the post",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Restless nights",
+    "Affinity": 70,
+    "Requirements": [
+      "Get up on the wrong side of the bad",
+      "A home of my own"
+    ],
+    "Lines": [
+      {
+        "Line": "I barely slept because of my sister, she’s so noisy… Sometimes I think I should find my own apartment and let her live on her own.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Our bond",
+    "Affinity": 80,
+    "Requirements": [
+      "Restless nights",
+      "Our family"
+    ],
+    "Lines": [
+      {
+        "Line": "Hmm, have you seen my sister recently?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "We hardly talk anymore, and...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m starting to miss her, she’s my twin, and I feel bad for yelling at her last time.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’d like to reconcile with her.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Fan art",
+    "Affinity": 90,
+    "Requirements": [
+      "Our bond",
+      "Reconciliation"
+    ],
+    "Lines": [
+      {
+        "Line": "I made a fanart for my sister and posted it on my social media.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "People loved it, I’ve gained quite a few followers.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’ll see her after my shift, I hope she’ll forgive me.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Back together",
+    "Affinity": 100,
+    "Requirements": [
+      "Fan art",
+      "My profile picture"
+    ],
+    "Lines": [
+      {
+        "Line": "I reconciled with my sister!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "She was also sad that we argued and regrets what she said.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m glad we’re talking normally again.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "10k",
+    "Affinity": 110,
+    "Requirements": [
+      "Back together"
+    ],
+    "Lines": [
+      {
+        "Line": "I’ve reached ten thousand followers!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I can’t believe so many people are following me!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "It’s also thanks to my sister she’s always promoted my work on her channel, I love her.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Stream life",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "Hello!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I work at a shop around here, and I just finished my night shift!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m here to grab a little sweet treat before going home.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I also need to plan my streaming schedule for this week which is my dream of living from my passion!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "A helping hand",
+    "Affinity": 20,
+    "Requirements": [
+      "Stream life"
+    ],
+    "Lines": [
+      {
+        "Line": "Heyyy!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "You must have met my brother last time!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "He draws a lot, and I told him to create an account, haha.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "By the way, make sure to subscribe to my channel!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m trying to get affiliated!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Recognized streamer",
+    "Affinity": 40,
+    "Requirements": [
+      "A helping hand"
+    ],
+    "Lines": [
+      {
+        "Line": "HIIII, I just got my affiliation!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "To celebrate this, nothing beats a sweet coffee please, and a pastry.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I can’t believe it I absolutely need some emotes!!!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Collab",
+    "Affinity": 50,
+    "Requirements": [
+      "Recognized streamer",
+      "Hype train"
+    ],
+    "Lines": [
+      {
+        "Line": "I got an amazing collab offer with another streamer!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "More subs!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I was supposed to tidy up the apartment, but this is way more important!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m going to prepare the schedule of what we’re going to do right away!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "House tension",
+    "Affinity": 60,
+    "Requirements": [
+      "Collab",
+      "Family drama"
+    ],
+    "Lines": [
+      {
+        "Line": "My brother is getting on my nerves.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I broke the office printer, and the coffee machine died.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Please, give me something to recharge I have a huge stream waiting for me when I get home!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "A home of my own",
+    "Affinity": 70,
+    "Requirements": [
+      "House tension"
+    ],
+    "Lines": [
+      {
+        "Line": "This 24 hour live stream was really exhausting!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I gained quite a few subs I’m at three hundred!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "But I made too much noise, and my stupid brother yelled at me in the middle of the live… So embarrassing!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "He annoys me so much, I wish I could live in my own place",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Our family",
+    "Affinity": 80,
+    "Requirements": [
+      "A home of my own",
+      "Restless nights"
+    ],
+    "Lines": [
+      {
+        "Line": "My brother talks to me less and less, I feel like he’s avoiding me.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I may have gone too far, I regret yelling at him, after all it was my fault.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Reconciliation",
+    "Affinity": 90,
+    "Requirements": [
+      "Our family",
+      "Our bond"
+    ],
+    "Lines": [
+      {
+        "Line": "I did a little promo for my brother on my live.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I made things clear to my viewers they loved the argument, haha!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I gained quite a few subs from that, but I still want my brother to come back and talk to me.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "My profile picture",
+    "Affinity": 100,
+    "Requirements": [
+      "Reconciliation",
+      "Fan art"
+    ],
+    "Lines": [
+      {
+        "Line": "Hey, did you see my brother’s beautiful drawing?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I love it so much, I set it as my profile picture for my channel, and my viewers loved the change!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m not far from a thousand sub!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I just need a little more effort!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "1k",
+    "Affinity": 110,
+    "Requirements": [
+      "My profile picture"
+    ],
+    "Lines": [
+      {
+        "Line": "One thousand sub, I did it, amazing!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "My brother made me a gorgeous banner for the occasion!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m going to give him tons of publicity it’s party time!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "And that's how we've met",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "Hi, I’m Adélaïde.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I saw your café when leaving my pilates class, and it looked so cool and now here I am!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’ll come back more often.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Free discount",
+    "Affinity": 20,
+    "Requirements": [
+      "And that's how we've met"
+    ],
+    "Lines": [
+      {
+        "Line": "Hey, I thought of you and I was wandering if you'd like to work out with me during your breaks.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m planning to offer you the sessions since I’m the manager.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Your strongest drink please",
+    "Affinity": 40,
+    "Requirements": [
+      "Free discount"
+    ],
+    "Lines": [
+      {
+        "Line": "Hi Ted, thanks for your drink.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I forgot my problems for a few seconds, but well, my mom is still seriously ill.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’d like to get some drinks to go, please is that possible?",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Cards on the table",
+    "Affinity": 60,
+    "Requirements": [
+      "Your strongest drink please"
+    ],
+    "Lines": [
+      {
+        "Line": "Hey Teddy, would you like to go out with me tonight?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "If I wait for you after work?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Haha, your expression says it all see you later then.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Cheer up",
+    "Affinity": 70,
+    "Requirements": [
+      "Cards on the table"
+    ],
+    "Lines": [
+      {
+        "Line": "Hi Teddy, I don’t know who else to talk to besides you.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "My mom is in an hospital in Australia.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I don’t know what to do, I’m just looking for a way to lift myself up luckily your drinks exist…",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Bankrupt",
+    "Affinity": 80,
+    "Requirements": [
+      "Cheer up"
+    ],
+    "Lines": [
+      {
+        "Line": "Sorry if I’m not suggesting to go out or if I’m coming less often.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "But the hospital fees and travels are extremely expensive, I have to work a lot.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "The light at the end of the tunnel",
+    "Affinity": 90,
+    "Requirements": [
+      "Bankrupt"
+    ],
+    "Lines": [
+      {
+        "Line": "I finally managed to pay everything so my mom can be treated.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Now I just hope these treatments will actually help… \nMeanwhile, my mom is asking me for another drink to go, haha.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Mom is safe",
+    "Affinity": 110,
+    "Requirements": [
+      "The light at the end of the tunnel"
+    ],
+    "Lines": [
+      {
+        "Line": "My mom is saved Teddy, yay!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m actually sure your drinks helped her more than the treatments, I thank you from the bottom of my heart!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "All in",
+    "Affinity": 130,
+    "Requirements": [
+      "Mom is safe"
+    ],
+    "Lines": [
+      {
+        "Line": "Hi Teddy, now that everything is going well in my life, I can finally tell you what I really feel...",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m in love with you.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Would you want to be with me..?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Haha, I understand by looking at your expression I’ll wait for you after work!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Client satisfied",
+    "Affinity": 20,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "This coffee is very nice, my good sir.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "You’ve just gotten yourself a new regular customer, hehe!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Good Critic",
+    "Affinity": 30,
+    "Requirements": [
+      "Client satisfied"
+    ],
+    "Lines": [
+      {
+        "Line": "Would you mind if I post a review of your restaurant on my blog?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "And if it reassures you, it’s a very positive one.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Croissant, baguette",
+    "Affinity": 40,
+    "Requirements": [
+      "Good Critic"
+    ],
+    "Lines": [
+      {
+        "Line": "I’m going to Paris to explore the gastronomy there.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’ll share my experiences with you.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "No croissant, no baguette",
+    "Affinity": 50,
+    "Requirements": [
+      "Croissant, baguette"
+    ],
+    "Lines": [
+      {
+        "Line": "Well, in the end, I’m not bringing you anything at all my flight was cancelled.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I really needed one of your drinks.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Molière of gastronomy",
+    "Affinity": 60,
+    "Requirements": [
+      "No croissant, no baguette"
+    ],
+    "Lines": [
+      {
+        "Line": "I haven’t told you, by the way, but I’m writing my gastronomy book.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "That’s why I want to travel a lot.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Paris is one of my last destinations.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Paris, here i am",
+    "Affinity": 70,
+    "Requirements": [
+      "Molière of gastronomy"
+    ],
+    "Lines": [
+      {
+        "Line": "That’s it I managed to get another flight to Paris.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "This time, there’s no way my flight will be cancelled.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Maximum focus",
+    "Affinity": 90,
+    "Requirements": [
+      "Paris, here i am"
+    ],
+    "Lines": [
+      {
+        "Line": "I’m almost finished writing my recipe book.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "It’s the end, but it’s the part where I need to be the most focused to make sure I haven’t made any mistakes!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Who will print?",
+    "Affinity": 100,
+    "Requirements": [
+      "Maximum focus"
+    ],
+    "Lines": [
+      {
+        "Line": "I finally finished my book, now I need a publisher.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Future best seller",
+    "Affinity": 110,
+    "Requirements": [
+      "Who will print?"
+    ],
+    "Lines": [
+      {
+        "Line": "That’s it I found my publisher!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m sure my book will be a reference in gastronomy!",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "My book is out",
+    "Affinity": 130,
+    "Requirements": [
+      "Future best seller"
+    ],
+    "Lines": [
+      {
+        "Line": "My book is out, and to thank you for listening to me and making so many delicious drinks, I’m giving you my book.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I dedicated a page to showcase some of your recipes.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Starboy",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "The lighting and the vibe of this café are perfect for taking photos.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Did you design all of this?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Haha, you don’t seem like it.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "SpotLight",
+    "Affinity": 10,
+    "Requirements": [
+      "Starboy"
+    ],
+    "Lines": [
+      {
+        "Line": "Please don’t ruin the lighting, I’m doing a product placement here.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I used a parsley-based mask you can clearly see the difference, right?",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Stats up",
+    "Affinity": 30,
+    "Requirements": [
+      "SpotLight"
+    ],
+    "Lines": [
+      {
+        "Line": "HAHAHA, my number of followers has increased so much since I started taking photos here.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I guess I should thank you for letting me take photos here.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "My safe place",
+    "Affinity": 50,
+    "Requirements": [
+      "Stats up"
+    ],
+    "Lines": [
+      {
+        "Line": "Well, the Pilates studio is closed for who knows what reason this time.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m just here for the nice drinks i mean nice, but nothing more, okay?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Don’t you dare think it’s my favorite place or something.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "What's the price of perfection",
+    "Affinity": 60,
+    "Requirements": [
+      "My safe place"
+    ],
+    "Lines": [
+      {
+        "Line": "I don’t have any more collaborations to do for my social media, but I still have to keep appearing perfect for people to come...",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "For who i am",
+    "Affinity": 70,
+    "Requirements": [
+      "What's the price of perfection"
+    ],
+    "Lines": [
+      {
+        "Line": "No one is interested in me despite all the effort I put in.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "They only think about my appearance.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I should be proud of that, but no one cares about what’s inside my plumage.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "You too, right?",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "A crack in the shell",
+    "Affinity": 80,
+    "Requirements": [
+      "For who i am",
+      "Heart broken"
+    ],
+    "Lines": [
+      {
+        "Line": "Today, a little nervous bunny at Pilates asked me why I looked sad, even though I didn’t look sad at all, haha… Who does this little guy think he is?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "So I came here to straighten out my thoughts.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Nothing to do with sadness",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "First step",
+    "Affinity": 90,
+    "Requirements": [
+      "A crack in the shell",
+      "Power in softness"
+    ],
+    "Lines": [
+      {
+        "Line": "I saw that nervous little bunny from last time again.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I found him cute at the moment and asked him out I don’t know what came over me.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "What must he think about me",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "That went pretty well",
+    "Affinity": 100,
+    "Requirements": [
+      "First step",
+      "Make yourself little"
+    ],
+    "Lines": [
+      {
+        "Line": "The date went so well with that little bunny.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I really felt listened I felt like someone was interested in me for who I am and not for what I show.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "He told me his little heart was broken and that he couldn’t get into a relationship so soon, but I’m ready to wait.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Tornado omurice",
+    "Affinity": 130,
+    "Requirements": [
+      "That went pretty well"
+    ],
+    "Lines": [
+      {
+        "Line": "I’m in a relationship yes!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I finally found my other half!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "The first thing I’m going to do is bring him here.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Happy together",
+    "Affinity": 140,
+    "Requirements": [
+      "Tornado omurice",
+      "True beauty"
+    ],
+    "Lines": [
+      {
+        "Line": "I did a photoshoot with my lover.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I told everyone that I found the love of my life, and they all said we look great together.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Am i weak",
+    "Affinity": 0,
+    "Requirements": [],
+    "Lines": [
+      {
+        "Line": "Hi, thanks for the drink, it was really good I really needed it.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "The person I love just told me I’m too weak for her.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Maybe it’s true, but it hurts.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Strength comes from the mind",
+    "Affinity": 20,
+    "Requirements": [
+      "Am i weak"
+    ],
+    "Lines": [
+      {
+        "Line": "I don’t know if you can tell, but I’ve been taking pilates classes to get stronger.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m not letting myself get discouraged",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Heart broken",
+    "Affinity": 60,
+    "Requirements": [
+      "Strength comes from the mind"
+    ],
+    "Lines": [
+      {
+        "Line": "Well, in the end I was the only problem it had nothing to do with strength.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "She cut ties with me, all I have left now are your drinks and pilates…",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Power in softness",
+    "Affinity": 70,
+    "Requirements": [
+      "Heart broken",
+      "For who i am"
+    ],
+    "Lines": [
+      {
+        "Line": "I talked to a peacock yesterday, he was gorgeous and smiling.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "But something was off, he seemed sad.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I asked him why he was like this, but he denied it.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "What got into me to ask him that?",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I wanted to get closer to him, and now he must hate me.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Maybe I should work on my tact instead of my strength.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Make yourself little",
+    "Affinity": 80,
+    "Requirements": [
+      "Power in softness",
+      "A crack in the shell"
+    ],
+    "Lines": [
+      {
+        "Line": "I made myself really small at the pilates studio so the peacock wouldn’t notice me, and then, out of nowhere, he asked me out.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I thought I was going to have a heart attack.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I said yes while trembling, but what must he be thinking of me.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "Tall and strong",
+    "Affinity": 90,
+    "Requirements": [
+      "Make yourself little",
+      "First step"
+    ],
+    "Lines": [
+      {
+        "Line": "The date with Leon was amazing.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "He reassured me about all the things I’ve been put down for before, and I found him super interesting.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I could listen to him talk all day, but I don’t feel ready to be in a relationship just yet.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "True beauty",
+    "Affinity": 120,
+    "Requirements": [
+      "Tall and strong"
+    ],
+    "Lines": [
+      {
+        "Line": "That’s it, it’s official I’m in a relationship with Leon!",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I’m so happy that someone loves my flaws.",
+        "Portrait": "None"
+      }
+    ]
+  },
+  {
+    "Name": "New horizons",
+    "Affinity": 130,
+    "Requirements": [
+      "True beauty",
+      "Tornado omurice"
+    ],
+    "Lines": [
+      {
+        "Line": "We did a photoshoot recently.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "I felt a bit uncomfortable at first, but seeing ourselves in the photos afterwards made me want to do it again.",
+        "Portrait": "None"
+      },
+      {
+        "Line": "Thank you for letting us take photos and for giving us amazing drinks Teddy.",
+        "Portrait": "None"
+      }
+    ]
+  }
+]
